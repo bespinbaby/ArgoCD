@@ -15,5 +15,5 @@ spec:
         app: web
     spec:
       containers:
-      - image: 880363532320.dkr.ecr.ap-northeast-2.amazonaws.com/bebehw:main19
+      - image: 880363532320.dkr.ecr.ap-northeast-2.amazonaws.com/bebehw:main26
         name: web-login
